@@ -1,7 +1,5 @@
 ###############################################################################################################################################################################################
 ##
-## Chega de trabalho manual ;D
-##
 ## Função de cada script:
 ##
 ## >agentes_login.sh = Imprime os agentes ATIVOS que não logam no painel há pelo menos 30,60 ou 90 dias (conforme passagem de parâmetro)
